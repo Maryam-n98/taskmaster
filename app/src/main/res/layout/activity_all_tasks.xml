@@ -8,12 +8,13 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="174dp"
-        android:layout_height="51dp"
-        android:text="All Tasks"
-        android:textSize="30sp"
-        android:gravity="center"
+        android:layout_width="201dp"
+        android:layout_height="67dp"
         android:background="@color/purple_500"
+        android:gravity="center"
+        android:text="All Tasks"
+        android:textColor="@color/white"
+        android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
