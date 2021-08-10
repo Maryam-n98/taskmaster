@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         Button addTaskButton =findViewById(R.id.button);
         addTaskButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
+            public void onClick(View view) {
                 Intent addTaskPage=new Intent(MainActivity.this,AddTaskActivity.class);
                 startActivity(addTaskPage);
             }
