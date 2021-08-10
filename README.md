@@ -9,7 +9,9 @@
 ![Home](https://github.com/Maryam-n98/taskmaster/blob/main/screenshots/home.jpg)
 
 2. Add a task activity where the user can add a task title and a description and there is a add task button, when you click on it it will show you short message "added task".
+
 ![Add](https://github.com/Maryam-n98/taskmaster/blob/main/screenshots/add.jpg)
+
 
 3. In Home page if you click in all tasks button that will take you to All tasks activity contains an image and text view.
 ![All](https://github.com/Maryam-n98/taskmaster/blob/main/screenshots/all.jpg)
