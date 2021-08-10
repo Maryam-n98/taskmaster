@@ -36,4 +36,4 @@ I tried to use some style like background and text center for the title for each
 3. In Tasks details you will show in the text view the name of the task that you click on it in Home page like this
 ![task](https://github.com/Maryam-n98/taskmaster/blob/main/screenshots/task.jpg)
 
-** I tried to add some style today **
+**I tried to add some style today**
